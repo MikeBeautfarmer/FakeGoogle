@@ -1,0 +1,63 @@
+a:hover {
+    color: blue;
+}
+
+.linkscontainer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.links {
+    font-size: 14px;
+    margin: 3px;
+}
+
+.haupt {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+
+}
+
+.searchfield {
+
+}
+
+.buttons {
+    border: none;
+    color: black;
+    background-color: whitesmoke;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+}
+
+.lang {
+    font-size: 12px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fs {
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    font-size: 18px;
+}
